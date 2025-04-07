@@ -1,7 +1,9 @@
-fuzzywuzzy
-nltk
-numpy
-pandas
-protobuf
-scikit_learn
 streamlit
+pandas
+numpy
+scikit-learn
+fuzzywuzzy
+python-Levenshtein
+nltk
+google-generativeai
+
