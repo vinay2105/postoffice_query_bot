@@ -1,0 +1,7 @@
+fuzzywuzzy
+nltk
+numpy
+pandas
+protobuf
+scikit_learn
+streamlit
